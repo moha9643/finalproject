@@ -1,0 +1,3 @@
+Develop REST API Controllers for restaurant search, prayer room discovery, and user authentication.
+Implement frontend integration (React, Angular, or Thymeleaf).
+Add authentication & session management (JWT, OAuth, or Spring Security).
