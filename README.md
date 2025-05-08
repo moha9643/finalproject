@@ -24,7 +24,7 @@ cd [project root]
 npm install
 npm run dev
 
-----
+### 🔹 Backend (SpringBoot)
 
 Java Spring boot run:
 cd [Spring project home]
